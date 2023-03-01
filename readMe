@@ -1,0 +1,5 @@
+1) make frontend and back end folder
+2)install react in front end (npx create-react-app ./)
+3)install express in back end and other dependencies(npm express)
+4)make index.js folder in back end and import dependencies
+5)connect database, set up models
